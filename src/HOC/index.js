@@ -1,0 +1,1 @@
+export HeaderHoc from './headerHoc'
